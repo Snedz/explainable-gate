@@ -4,6 +4,8 @@
 
 > Live, the model recommended escalate on the over-cap purchase. The cap denied it.
 
+**Live demo (37 seconds, recorded live November 15, 2026):** https://www.youtube.com/watch?v=PQ1eBpBFuIQ
+
 ## Problem
 
 Agents don't just spend. They merge code, deploy services, send
